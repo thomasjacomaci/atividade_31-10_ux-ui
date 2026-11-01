@@ -277,9 +277,7 @@ Os commits foram separados para registrar a versão inicial do projeto e a etapa
 # 15. Repositório
 
 O projeto deverá ser publicado no GitHub antes da entrega.
-
-**Link do repositório:** COLE AQUI O LINK DO SEU REPOSITÓRIO
-
+Link do repositório: https://github.com/thomasjacomaci/atividade_31-10_ux-ui.git
 ---
 
 # 16. Conclusão
